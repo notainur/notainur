@@ -4,4 +4,4 @@
  🌱 I'm interested in data analytics & dataviz.
 
  ## 🌐 Socials:
-[68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/9be22082-6123-46cd-9d27-7235c7c13772): linkedin.com/in/siti-norainur/
+![image](https://github.com/user-attachments/assets/8ef7a277-13da-4fd9-b2ec-12021668ee71): linkedin.com/in/siti-norainur/
