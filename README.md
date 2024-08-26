@@ -7,7 +7,9 @@
 ![image](https://github.com/user-attachments/assets/8ef7a277-13da-4fd9-b2ec-12021668ee71): linkedin.com/in/siti-norainur/
 
 ## 💻 Tech Stack
-![image](https://github.com/user-attachments/assets/8412f267-8011-4803-a95a-6ded7bbbd465)![image](https://github.com/user-attachments/assets/e349668f-30cf-46fd-9599-f75437bd324d)![image](https://github.com/user-attachments/assets/e98860ec-0629-4b97-8dcd-79eb8636de69)
+![image](https://github.com/user-attachments/assets/923a8bc1-0106-4636-ade5-57ea7b4ed967) ![image](https://github.com/user-attachments/assets/e61fc3e0-ec12-4b2a-b215-aed4fdd915d7) ![image](https://github.com/user-attachments/assets/33e1963f-ce1e-477f-903c-806694c11642)
+
+
 
 
 
